@@ -1,0 +1,8 @@
+Workflow everyone must follow:
+
+1. Never commit directly to main or develop
+2. git pull origin develop          → always stay updated
+3. git checkout -b feature/your-name-task
+4. Code → commit often → git push origin feature/...
+5. Open Pull Request → develop
+6. At least 1 teammate reviews → merge
