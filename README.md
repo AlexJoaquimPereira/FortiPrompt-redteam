@@ -1,6 +1,5 @@
 ## FortiPrompt RedTeam: Automated Adversarial Prompt Generation and Synthetic Dataset Creation
 
-**Lead:** Alex Joaquim Pereira (22B-CO-006)  
 **Part of the FortiPrompt research project** – Goa Engineering College, November 2025  
 
 ### Overview
